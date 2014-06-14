@@ -1,9 +1,7 @@
 LPF-Using-Active-Resistor
 =========================
 
-Low Pass Filter using Active Resistors 
-Audio-Amplifier
-===============
+Low Pass Filter using Active Resistors
 
 This project provides Spice code for LPF using MOS Active Resistor.
 
